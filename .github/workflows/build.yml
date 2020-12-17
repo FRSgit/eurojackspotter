@@ -27,4 +27,4 @@ jobs:
       - name: Install dependencies
         run: yarn --pure-lockfile
       - name: build
-        run: yarn serve
+        run: yarn build
