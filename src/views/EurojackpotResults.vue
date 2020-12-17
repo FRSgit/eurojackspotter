@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <h1>Home</h1>
+    <h1>EurojackpotResults</h1>
   </v-container>
 </template>
 
@@ -8,6 +8,6 @@
 import Vue from 'vue';
 
 export default Vue.extend({
-  name: 'Home',
+  name: 'EurojackpotResults',
 });
 </script>
