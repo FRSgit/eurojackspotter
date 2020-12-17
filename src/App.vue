@@ -55,3 +55,7 @@ export default Vue.extend({
   }
 });
 </script>
+
+<style scoped>
+@import "./styles/_utils.scss";
+</style>
